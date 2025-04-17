@@ -1,0 +1,24 @@
+{
+  "name": "clinic-website",
+  "version": "1.0.0",
+  "description": "HealthCare Clinic website with Node.js email functionality",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "clinic",
+    "website",
+    "nodejs",
+    "express",
+    "nodemailer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.15"
+  }
+}
